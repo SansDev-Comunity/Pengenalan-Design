@@ -4,9 +4,9 @@
 # 📌 BAGIAN 1 — FUNDAMENTAL DESIGN
 ## 1. Dasar-dasar Desain
 
-Apa itu UI, UX, dan CX
+Apa itu UI, UX, CX dan BX
 
-Perbedaan UI vs UX vs CX
+Perbedaan UI vs UX vs CX vs BX
 
 Prinsip dasar desain (balance, contrast, alignment, repetition)
 
