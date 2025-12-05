@@ -1,4 +1,4 @@
-# 🎨 FULL STACK UI UX CX & BX Design Complate Sylabus
+# 🎨 FULL STACK UI UX CX BX HX pada Design Complate Sylabus
 
 ### UI (User Interface)
 ### UX (User Experience)
