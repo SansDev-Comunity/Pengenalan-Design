@@ -6,8 +6,8 @@ di kelas ini kita akan belajar mengenal apa itu UI, UX, CX, BX, HX. dirancang un
 
 Materi disusun secara sistematis mengikuti alur pengembangan aplikasi:
 
-| Chapter | Fokus Utama | Topik Bahasan |
-| :--- | :--- | :--- |
+| Disiplin | Fokus Utama | Unit Analisis | Output Utama
+| :--- | :--- | :--- | :--- |
 | **[01. Konvensi Kode](chapters/01-konvensi-dan-standar-kode.md)** | Standardisasi | Penamaan, Sintaks Modern, DRY. |
 | **[02. Arsitektur](chapters/02-arsitektur-dan-logika-bisnis.md)** | Struktur | Service Layer, SRP, Skinny Controller. |
 | **[03. Validasi & Keamanan](chapters/03-validasi-dan-keamanan.md)** | Integritas | Form Requests, Policies, Config Safety. |
