@@ -25,8 +25,8 @@ Prinsip: Bergerak dari pemahaman manusia & bisnis (HX, CX, BX)
 → eksekusi visual & sistem (UI) 
 → validasi & tata kelola layanan (SD).
 
-Modul 1: Fondasi Manusia, Konteks, & Nilai Bisnis (Minggu 1–4)
-Minggu 1 — Pengantar Ekosistem Desain Modern (UI, UX, IX, HX, CX, BX)
+# Modul 1: Fondasi Manusia, Konteks, & Nilai Bisnis (Minggu 1–4)
+## Minggu 1 — Pengantar Ekosistem Desain Modern (UI, UX, IX, HX, CX, BX)
 
 Perbedaan batas dan irisan antar-disiplin desain.
 
@@ -34,7 +34,7 @@ Kapan fokus pada layar (UI), alur (UX), perilaku (IX), manusia (HX), pelanggan (
 
 Studi kasus produk digital yang gagal karena hanya kuat di UI tetapi lemah di CX/BX.
 
-Minggu 2 — Human Experience (HX): Kognisi, Emosi, & Aksesibilitas
+## Minggu 2 — Human Experience (HX): Kognisi, Emosi, & Aksesibilitas
 
 Beban kognitif (cognitive load), memori kerja, model mental, dan bias kognitif.
 
@@ -42,7 +42,7 @@ Desain inklusif & aksesibilitas (kontras warna, keterbacaan, navigasi keyboard, 
 
 Praktik: Audit aksesibilitas dan beban kognitif pada satu alur produk.
 
-Minggu 3 — Customer Experience (CX): Perjalanan Pelanggan Lintas Kanal
+## Minggu 3 — Customer Experience (CX): Perjalanan Pelanggan Lintas Kanal
 
 Membedakan user (pengguna fitur) dan customer (pemilik hubungan/transaksi/loyalitas).
 
@@ -58,35 +58,35 @@ Value Proposition Canvas dan pemetaan trade-off (misalnya: friksi onboarding vs.
 
 Praktik: Merumuskan Problem Statement berbasis HX + CX + BX.
 
-Modul 2: Riset, Arsitektur, & Interaksi (Minggu 5–8)
+# Modul 2: Riset, Arsitektur, & Interaksi (Minggu 5–8)
 Minggu 5 — Riset Pengguna & Pemetaan Peluang
 
 Wawancara kontekstual, observasi lapangan, survei terarah, dan analisis kompetitor.
 
 Sintesis temuan: Affinity Mapping, Jobs-to-be-Done (JTBD), dan Opportunity Tree.
 
-Minggu 6 — Information Architecture (IA) & User Flow (UX)
+## Minggu 6 — Information Architecture (IA) & User Flow (UX)
 
 Taksonomi, card sorting, struktur navigasi, dan hierarki konten.
 
 User Flow, edge cases, empty states, dan error states.
 
-Minggu 7 — Interaction Design (IX) & Wireframing
+## Minggu 7 — Interaction Design (IX) & Wireframing
 
 Prinsip interaksi: affordance, signifier, feedback, mapping, dan constraints.
 
 Low-fidelity ke mid-fidelity wireframe dengan fokus pada struktur dan logika interaksi.
 
-Minggu 8 — Ujian Tengah Semester (UTS): Riset, CX/BX Framing, & Wireframe Flow
+## Minggu 8 — Ujian Tengah Semester (UTS): Riset, CX/BX Framing, & Wireframe Flow
 
 Modul 3: Sistem Visual & Antarmuka (Minggu 9–12)
-Minggu 9 — UI Foundations: Warna, Tipografi, & Grid
+## Minggu 9 — UI Foundations: Warna, Tipografi, & Grid
 
 Sistem warna semantik (primer, netral, status, kontras), skala tipografi, dan ritme vertikal.
 
 Sistem grid responsif (mobile, tablet, desktop) dan spasi negatif (whitespace).
 
-Minggu 10 — Komponen Antarmuka & Pola Interaksi (UI + IX)
+## Minggu 10 — Komponen Antarmuka & Pola Interaksi (UI + IX)
 
 Anatomi komponen: tombol, input, kartu, modal, navigasi, tabel, dan notifikasi.
 
@@ -94,7 +94,7 @@ Component states (default, hover, active, focus, disabled, loading, error).
 
 Mikro-interaksi dan transisi fungsional.
 
-Minggu 11 — Design System & Dokumentasi Token
+## Minggu 11 — Design System & Dokumentasi Token
 
 Desain token (warna, jarak, radius, bayangan, tipografi).
 
@@ -102,32 +102,32 @@ Aturan penamaan komponen, varian, dan panduan penggunaan (usage guidelines).
 
 Praktik: Membangun mini design system untuk satu produk.
 
-Minggu 12 — High-Fidelity Prototyping & Handoff
+## Minggu 12 — High-Fidelity Prototyping & Handoff
 
 Penyusunan high-fidelity mockup dan prototipe interaktif lintas skenario.
 
 Spesifikasi handoff untuk front-end developer (aturan responsif, aset, perilaku state).
 
-Modul 4: Pengujian, Orkestrasi Layanan, & Evaluasi (Minggu 13–16)
-Minggu 13 — Usability Testing & Evaluasi Heuristik
+# Modul 4: Pengujian, Orkestrasi Layanan, & Evaluasi (Minggu 13–16)
+## Minggu 13 — Usability Testing & Evaluasi Heuristik
 
 Penyusunan skenario uji, metrik keberhasilan (task success rate, time on task, error rate, SEQ/SUS).
 
 Moderasi pengujian dan iterasi berbasis bukti.
 
-Minggu 14 — Service Design (SD) & Orkestrasi Lintas Tim
+## Minggu 14 — Service Design (SD) & Orkestrasi Lintas Tim
 
 Service Blueprint: memetakan customer actions, frontstage, backstage, dan support processes.
 
 Kolaborasi desain dengan tim produk, engineering, customer support, dan operasional.
 
-Minggu 15 — Eksperimentasi Produk & Iterasi BX/CX
+## Minggu 15 — Eksperimentasi Produk & Iterasi BX/CX
 
 Merancang eksperimen (A/B testing, usability benchmark, funnel review).
 
 Mengukur dampak perubahan desain terhadap pengalaman manusia dan metrik bisnis.
 
-Minggu 16 — Ujian Akhir Semester (UAS): Presentasi Portofolio End-to-End
+## Minggu 16 — Ujian Akhir Semester (UAS): Presentasi Portofolio End-to-End
 
 Struktur Penilaian (Contoh Bobot)
 Tugas Praktik Mingguan (30%): Latihan mikro (audit HX, journey map, wireframe, token UI).
