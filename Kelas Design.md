@@ -9,12 +9,12 @@ Materi disusun secara sistematis mengikuti alur pengembangan aplikasi:
 | Disiplin | Fokus Utama | Unit Analisis | Output Utama
 | :--- | :--- | :--- | :--- |
 | UI (User Interface) | Tampilan visual, tata letak, tipografi, komponen, sistem visual | Layar, komponen antarmuka | Design System, UI Kit, High-Fidelity Mockup |
-| **[02. Arsitektur](chapters/02-arsitektur-dan-logika-bisnis.md)** | Struktur | Service Layer, SRP, Skinny Controller. |
-| **[03. Validasi & Keamanan](chapters/03-validasi-dan-keamanan.md)** | Integritas | Form Requests, Policies, Config Safety. |
-| **[04. Manajemen Data](chapters/04-eloquent-dan-manajemen-data.md)** | Eloquent | Mass Assignment, Accessors, Transactions. |
-| **[05. Optimasi Performa](chapters/05-optimasi-query-dan-performa.md)** | Skalabilitas | N+1 Problem, Queues, Database Indexing. |
-| **[06. Presentasi](chapters/06-presentasi-dan-frontend.md)** | Output | API Resources, Blade Clean Code, Assets. |
-| **[07. Pengujian](chapters/07-pengujian-dan-kualitas.md)** | Reliabilitas | Feature Testing, Model Factories, Pint. |
+| UX (User Experience) | Alur kerja, arsitektur informasi, kegunaan, riset pengguna | Task flow, sesi penggunaan | User Persona, Wireframe, User Flow, Usability Report |
+| IX (Interaction Design) | Perilaku elemen interaktif, transisi, mikro-interaksi, respons | State, gesture, feedback | Interactive Prototype, Motion/Micro-interaction Spec |
+| HX (Human Experience) | Konteks manusia secara utuh: emosi, kognisi, aksesibilitas, etika | Manusia dalam situasi nyata | Accessibility Audit, Cognitive Load Map, Inclusive Design Spec |
+| CX (Customer Experience) | Keseluruhan perjalanan pelanggan lintas kanal & titik sentuh | End-to-end customer journey | Customer Journey Map, Touchpoint Audit, Service Blueprint
+| BX (Business Experience / Design) | Keselarasan nilai pengguna dengan model bisnis, retensi, konversi | Value exchange, ekosistem bisnis | Value Proposition Canvas, Business Model Alignment, Experiment Roadmap |
+| SD (Service Design) | Orkestrasi frontstage (terlihat) & backstage (sistem/SOP/tim) | Sistem layanan lintas waktu | Service Blueprint, Stakeholder Map, Operational Handoff
 
 ---
 
