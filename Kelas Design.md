@@ -2,16 +2,7 @@
 
 di kelas ini kita akan belajar mengenal apa itu UI, UX, CX, BX, HX. dirancang untuk membantu kamu menciptakan pengalaman pengguna yang solid dan antarmuka
 
-# 🚀 Laravel Best Practices
-
-[![Laravel Version](https://img.shields.io/badge/Laravel-11.x-red.svg)](https://laravel.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-Repository ini adalah panduan praktis untuk menulis kode Laravel yang bersih, efisien, dan mudah dipelihara. Fokus utama kami bukan hanya pada "bagaimana cara kodenya jalan", tetapi "bagaimana cara kodenya berumur panjang".
-
----
-
-## 🗺️ Peta Materi
+# 🗺️ Materi
 
 Materi disusun secara sistematis mengikuti alur pengembangan aplikasi:
 
